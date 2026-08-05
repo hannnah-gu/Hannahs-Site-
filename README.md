@@ -6,7 +6,7 @@ Hosting: Github Pages
 
 
 
-Demo Link **for some reason the link might not be working since changed my username. Copy paste the link in browser instead of clicking it, thanks** : [[https://hannnah-gu.github.io/Hannahs-Site-/](https://hannnah-gu.github.io/Hannahs-Site-/)](https://hannnah-gu.github.io/Hannahs-Site-/) 
+Demo Link **for some reason the link might not be working since changed my username. Copy paste the link in browser instead of clicking it, thanks** : https://hannnah-gu.github.io/Hannahs-Site-/ 
 <img width="1447" height="692" alt="Screenshot 2026-08-03 at 7 53 06 AM" src="https://github.com/user-attachments/assets/d4fdfe6b-ba29-4ad6-8fdf-ff7302c09402" />
 
 About:
